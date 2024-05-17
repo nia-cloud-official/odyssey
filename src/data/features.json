@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Website Developement",
+    "icon": "icon1.svg",
+    "content": "We create websites for both personal and business use. Websites with high quality designs and functionality to give you an edge."
+  },
+  {
+    "title": "IT & Product Maintainance",
+    "icon": "icon2.svg",
+    "content": "We can maintain your tech products & tools for you and your business to make sure that everything runs smoothly and gives you the right results."
+  },
+  {
+    "title": "Mobile App Development",
+    "icon": "icon3.svg",
+    "content": "Creating of apps for personal use or business use, helping you advance your business to the next level."
+  },
+  {
+    "title": "Software Development",
+    "icon": "icon4.svg",
+    "content": "Wether its tools or softwares for you to use within your business of for sale, we offer high quality and effecient softwares that meets your needs."
+  },
+  {
+    "title": "Custom Tools",
+    "icon": "icon5.svg",
+    "content": "We create customizable business tools that allow you to run your business from the comfort of your home and effeciently get the job done."
+  },
+  {
+    "title": "Web tool Creation",
+    "icon": "icon6.svg",
+    "content": "We create tools that help with your marketing and product distribution."
+  }
+]
